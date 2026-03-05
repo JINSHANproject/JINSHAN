@@ -1,0 +1,120 @@
+2026-03-05 21:05:07 - utils.file_io - INFO - 发现测试文件：C:\Users\Duan\Downloads\ocr\doc_parser_system\test_data\3db9b109-5c11-4d50-ba28-2ae5d5b160b8.jpg
+2026-03-05 21:05:07 - __main__ - INFO - 开始处理文件：C:\Users\Duan\Downloads\ocr\doc_parser_system\test_data\3db9b109-5c11-4d50-ba28-2ae5d5b160b8.jpg（类型：image）
+2026-03-05 21:05:07 - core.preprocess - INFO - 开始增强图像：C:\Users\Duan\Downloads\ocr\doc_parser_system\test_data\3db9b109-5c11-4d50-ba28-2ae5d5b160b8.jpg
+2026-03-05 21:05:07 - core.preprocess - INFO - 图像增强完成：C:\Users\Duan\Downloads\ocr\doc_parser_system\tmp\enhanced_3db9b109-5c11-4d50-ba28-2ae5d5b160b8.png，宽=970，高=546
+2026-03-05 21:05:07 - core.preprocess - INFO - 预处理完成，共 1 页/图像。
+2026-03-05 21:05:11 - core.element_detect - INFO - 开始文本行检测：page=1
+2026-03-05 21:05:12 - core.element_detect - INFO - 文本行检测完成，共识别 9 个元素。
+2026-03-05 21:05:12 - core.content_recognize - INFO - 开始内容识别补充...
+2026-03-05 21:05:12 - core.content_recognize - INFO - 内容识别补充完成
+2026-03-05 21:05:12 - __main__ - INFO - 内容识别完成。
+2026-03-05 21:05:12 - utils.file_io - INFO - HTML 已保存到：C:\Users\Duan\Downloads\ocr\doc_parser_system\output\result.html
+2026-03-05 21:05:12 - __main__ - INFO - 处理完成，结果已输出到：C:\Users\Duan\Downloads\ocr\doc_parser_system\output\result.html
+2026-03-05 21:05:43 - utils.file_io - INFO - 发现测试文件：C:\Users\Duan\Downloads\ocr\doc_parser_system\test_data\3db9b109-5c11-4d50-ba28-2ae5d5b160b8.jpg
+2026-03-05 21:05:43 - __main__ - INFO - 开始处理文件：C:\Users\Duan\Downloads\ocr\doc_parser_system\test_data\3db9b109-5c11-4d50-ba28-2ae5d5b160b8.jpg（类型：image）
+2026-03-05 21:05:43 - core.preprocess - INFO - 开始增强图像：C:\Users\Duan\Downloads\ocr\doc_parser_system\test_data\3db9b109-5c11-4d50-ba28-2ae5d5b160b8.jpg
+2026-03-05 21:05:43 - core.preprocess - INFO - 图像增强完成：C:\Users\Duan\Downloads\ocr\doc_parser_system\tmp\enhanced_3db9b109-5c11-4d50-ba28-2ae5d5b160b8.png，宽=970，高=546
+2026-03-05 21:05:43 - core.preprocess - INFO - 预处理完成，共 1 页/图像。
+2026-03-05 21:05:46 - core.element_detect - INFO - 开始文本行检测：page=1
+2026-03-05 21:05:47 - core.element_detect - INFO - 文本行检测完成，共识别 9 个元素。
+2026-03-05 21:05:47 - core.content_recognize - INFO - 开始内容识别补充...
+2026-03-05 21:05:47 - core.content_recognize - INFO - 内容识别补充完成
+2026-03-05 21:05:47 - __main__ - INFO - 内容识别完成。
+2026-03-05 21:05:47 - utils.file_io - INFO - HTML 已保存到：C:\Users\Duan\Downloads\ocr\doc_parser_system\output\result.html
+2026-03-05 21:05:47 - __main__ - INFO - 处理完成，结果已输出到：C:\Users\Duan\Downloads\ocr\doc_parser_system\output\result.html
+2026-03-05 21:06:12 - utils.file_io - INFO - 发现测试文件：C:\Users\Duan\Downloads\ocr\doc_parser_system\test_data\3db9b109-5c11-4d50-ba28-2ae5d5b160b8.jpg
+2026-03-05 21:06:12 - __main__ - INFO - 开始处理文件：C:\Users\Duan\Downloads\ocr\doc_parser_system\test_data\3db9b109-5c11-4d50-ba28-2ae5d5b160b8.jpg（类型：image）
+2026-03-05 21:06:12 - core.preprocess - INFO - 开始增强图像：C:\Users\Duan\Downloads\ocr\doc_parser_system\test_data\3db9b109-5c11-4d50-ba28-2ae5d5b160b8.jpg
+2026-03-05 21:06:12 - core.preprocess - INFO - 图像增强完成：C:\Users\Duan\Downloads\ocr\doc_parser_system\tmp\enhanced_3db9b109-5c11-4d50-ba28-2ae5d5b160b8.png，宽=970，高=546
+2026-03-05 21:06:12 - core.preprocess - INFO - 预处理完成，共 1 页/图像。
+2026-03-05 21:06:17 - core.element_detect - INFO - 开始文本行检测：page=1
+2026-03-05 21:06:18 - core.element_detect - INFO - 文本行检测完成，共识别 9 个元素。
+2026-03-05 21:06:18 - core.content_recognize - INFO - 开始内容识别补充...
+2026-03-05 21:06:18 - core.content_recognize - INFO - 内容识别补充完成
+2026-03-05 21:06:18 - __main__ - INFO - 内容识别完成。
+2026-03-05 21:06:18 - utils.file_io - INFO - HTML 已保存到：C:\Users\Duan\Downloads\ocr\doc_parser_system\output\result.html
+2026-03-05 21:06:18 - __main__ - INFO - 处理完成，结果已输出到：C:\Users\Duan\Downloads\ocr\doc_parser_system\output\result.html
+2026-03-05 21:06:55 - utils.file_io - INFO - 发现测试文件：C:\Users\Duan\Downloads\ocr\doc_parser_system\test_data\3db9b109-5c11-4d50-ba28-2ae5d5b160b8.jpg
+2026-03-05 21:06:55 - __main__ - INFO - 开始处理文件：C:\Users\Duan\Downloads\ocr\doc_parser_system\test_data\3db9b109-5c11-4d50-ba28-2ae5d5b160b8.jpg（类型：image）
+2026-03-05 21:06:55 - core.preprocess - INFO - 开始增强图像：C:\Users\Duan\Downloads\ocr\doc_parser_system\test_data\3db9b109-5c11-4d50-ba28-2ae5d5b160b8.jpg
+2026-03-05 21:06:55 - core.preprocess - INFO - 图像增强完成：C:\Users\Duan\Downloads\ocr\doc_parser_system\tmp\enhanced_3db9b109-5c11-4d50-ba28-2ae5d5b160b8.png，宽=970，高=546
+2026-03-05 21:06:55 - core.preprocess - INFO - 预处理完成，共 1 页/图像。
+2026-03-05 21:07:01 - core.element_detect - INFO - 开始文本行检测：page=1
+2026-03-05 21:07:02 - core.element_detect - INFO - 文本行检测完成，共识别 9 个元素。
+2026-03-05 21:07:02 - core.content_recognize - INFO - 开始内容识别补充...
+2026-03-05 21:07:02 - core.content_recognize - INFO - 内容识别补充完成
+2026-03-05 21:07:02 - __main__ - INFO - 内容识别完成。
+2026-03-05 21:07:02 - utils.file_io - INFO - HTML 已保存到：C:\Users\Duan\Downloads\ocr\doc_parser_system\output\result.html
+2026-03-05 21:07:02 - __main__ - INFO - 处理完成，结果已输出到：C:\Users\Duan\Downloads\ocr\doc_parser_system\output\result.html
+2026-03-05 21:07:15 - utils.file_io - INFO - 发现测试文件：C:\Users\Duan\Downloads\ocr\doc_parser_system\test_data\3db9b109-5c11-4d50-ba28-2ae5d5b160b8.jpg
+2026-03-05 21:07:15 - __main__ - INFO - 开始处理文件：C:\Users\Duan\Downloads\ocr\doc_parser_system\test_data\3db9b109-5c11-4d50-ba28-2ae5d5b160b8.jpg（类型：image）
+2026-03-05 21:07:15 - core.preprocess - INFO - 开始增强图像：C:\Users\Duan\Downloads\ocr\doc_parser_system\test_data\3db9b109-5c11-4d50-ba28-2ae5d5b160b8.jpg
+2026-03-05 21:07:15 - core.preprocess - INFO - 图像增强完成：C:\Users\Duan\Downloads\ocr\doc_parser_system\tmp\enhanced_3db9b109-5c11-4d50-ba28-2ae5d5b160b8.png，宽=970，高=546
+2026-03-05 21:07:15 - core.preprocess - INFO - 预处理完成，共 1 页/图像。
+2026-03-05 21:07:20 - core.element_detect - INFO - 开始文本行检测：page=1
+2026-03-05 21:07:21 - core.element_detect - INFO - 文本行检测完成，共识别 9 个元素。
+2026-03-05 21:07:21 - core.content_recognize - INFO - 开始内容识别补充...
+2026-03-05 21:07:21 - core.content_recognize - INFO - 内容识别补充完成
+2026-03-05 21:07:21 - __main__ - INFO - 内容识别完成。
+2026-03-05 21:07:21 - utils.file_io - INFO - HTML 已保存到：C:\Users\Duan\Downloads\ocr\doc_parser_system\output\result.html
+2026-03-05 21:07:21 - __main__ - INFO - 处理完成，结果已输出到：C:\Users\Duan\Downloads\ocr\doc_parser_system\output\result.html
+2026-03-05 21:07:27 - utils.file_io - INFO - 发现测试文件：C:\Users\Duan\Downloads\ocr\doc_parser_system\test_data\3db9b109-5c11-4d50-ba28-2ae5d5b160b8.jpg
+2026-03-05 21:07:27 - __main__ - INFO - 开始处理文件：C:\Users\Duan\Downloads\ocr\doc_parser_system\test_data\3db9b109-5c11-4d50-ba28-2ae5d5b160b8.jpg（类型：image）
+2026-03-05 21:07:27 - core.preprocess - INFO - 开始增强图像：C:\Users\Duan\Downloads\ocr\doc_parser_system\test_data\3db9b109-5c11-4d50-ba28-2ae5d5b160b8.jpg
+2026-03-05 21:07:27 - core.preprocess - INFO - 图像增强完成：C:\Users\Duan\Downloads\ocr\doc_parser_system\tmp\enhanced_3db9b109-5c11-4d50-ba28-2ae5d5b160b8.png，宽=970，高=546
+2026-03-05 21:07:27 - core.preprocess - INFO - 预处理完成，共 1 页/图像。
+2026-03-05 21:07:32 - core.element_detect - INFO - 开始文本行检测：page=1
+2026-03-05 21:07:33 - core.element_detect - INFO - 文本行检测完成，共识别 9 个元素。
+2026-03-05 21:07:33 - core.content_recognize - INFO - 开始内容识别补充...
+2026-03-05 21:07:33 - core.content_recognize - INFO - 内容识别补充完成
+2026-03-05 21:07:33 - __main__ - INFO - 内容识别完成。
+2026-03-05 21:07:33 - utils.file_io - INFO - HTML 已保存到：C:\Users\Duan\Downloads\ocr\doc_parser_system\output\result.html
+2026-03-05 21:07:33 - __main__ - INFO - 处理完成，结果已输出到：C:\Users\Duan\Downloads\ocr\doc_parser_system\output\result.html
+2026-03-05 21:07:44 - utils.file_io - INFO - 发现测试文件：C:\Users\Duan\Downloads\ocr\doc_parser_system\test_data\3db9b109-5c11-4d50-ba28-2ae5d5b160b8.jpg
+2026-03-05 21:07:44 - __main__ - INFO - 开始处理文件：C:\Users\Duan\Downloads\ocr\doc_parser_system\test_data\3db9b109-5c11-4d50-ba28-2ae5d5b160b8.jpg（类型：image）
+2026-03-05 21:07:44 - core.preprocess - INFO - 开始增强图像：C:\Users\Duan\Downloads\ocr\doc_parser_system\test_data\3db9b109-5c11-4d50-ba28-2ae5d5b160b8.jpg
+2026-03-05 21:07:44 - core.preprocess - INFO - 图像增强完成：C:\Users\Duan\Downloads\ocr\doc_parser_system\tmp\enhanced_3db9b109-5c11-4d50-ba28-2ae5d5b160b8.png，宽=970，高=546
+2026-03-05 21:07:44 - core.preprocess - INFO - 预处理完成，共 1 页/图像。
+2026-03-05 21:07:48 - core.element_detect - INFO - 开始文本行检测：page=1
+2026-03-05 21:07:49 - core.element_detect - INFO - 文本行检测完成，共识别 9 个元素。
+2026-03-05 21:07:49 - core.content_recognize - INFO - 开始内容识别补充...
+2026-03-05 21:07:49 - core.content_recognize - INFO - 内容识别补充完成
+2026-03-05 21:07:49 - __main__ - INFO - 内容识别完成。
+2026-03-05 21:07:49 - utils.file_io - INFO - HTML 已保存到：C:\Users\Duan\Downloads\ocr\doc_parser_system\output\result.html
+2026-03-05 21:07:49 - __main__ - INFO - 处理完成，结果已输出到：C:\Users\Duan\Downloads\ocr\doc_parser_system\output\result.html
+2026-03-05 21:08:09 - utils.file_io - INFO - 发现测试文件：C:\Users\Duan\Downloads\ocr\doc_parser_system\test_data\3db9b109-5c11-4d50-ba28-2ae5d5b160b8.jpg
+2026-03-05 21:08:09 - __main__ - INFO - 开始处理文件：C:\Users\Duan\Downloads\ocr\doc_parser_system\test_data\3db9b109-5c11-4d50-ba28-2ae5d5b160b8.jpg（类型：image）
+2026-03-05 21:08:09 - core.preprocess - INFO - 开始增强图像：C:\Users\Duan\Downloads\ocr\doc_parser_system\test_data\3db9b109-5c11-4d50-ba28-2ae5d5b160b8.jpg
+2026-03-05 21:08:09 - core.preprocess - INFO - 图像增强完成：C:\Users\Duan\Downloads\ocr\doc_parser_system\tmp\enhanced_3db9b109-5c11-4d50-ba28-2ae5d5b160b8.png，宽=970，高=546
+2026-03-05 21:08:09 - core.preprocess - INFO - 预处理完成，共 1 页/图像。
+2026-03-05 21:08:13 - core.element_detect - INFO - 开始文本行检测：page=1
+2026-03-05 21:08:14 - core.element_detect - INFO - 文本行检测完成，共识别 9 个元素。
+2026-03-05 21:08:14 - core.content_recognize - INFO - 开始内容识别补充...
+2026-03-05 21:08:14 - core.content_recognize - INFO - 内容识别补充完成
+2026-03-05 21:08:14 - __main__ - INFO - 内容识别完成。
+2026-03-05 21:08:14 - utils.file_io - INFO - HTML 已保存到：C:\Users\Duan\Downloads\ocr\doc_parser_system\output\result.html
+2026-03-05 21:08:14 - __main__ - INFO - 处理完成，结果已输出到：C:\Users\Duan\Downloads\ocr\doc_parser_system\output\result.html
+2026-03-05 21:08:34 - utils.file_io - INFO - 发现测试文件：C:\Users\Duan\Downloads\ocr\doc_parser_system\test_data\3db9b109-5c11-4d50-ba28-2ae5d5b160b8.jpg
+2026-03-05 21:08:34 - __main__ - INFO - 开始处理文件：C:\Users\Duan\Downloads\ocr\doc_parser_system\test_data\3db9b109-5c11-4d50-ba28-2ae5d5b160b8.jpg（类型：image）
+2026-03-05 21:08:34 - core.preprocess - INFO - 开始增强图像：C:\Users\Duan\Downloads\ocr\doc_parser_system\test_data\3db9b109-5c11-4d50-ba28-2ae5d5b160b8.jpg
+2026-03-05 21:08:34 - core.preprocess - INFO - 图像增强完成：C:\Users\Duan\Downloads\ocr\doc_parser_system\tmp\enhanced_3db9b109-5c11-4d50-ba28-2ae5d5b160b8.png，宽=970，高=546
+2026-03-05 21:08:34 - core.preprocess - INFO - 预处理完成，共 1 页/图像。
+2026-03-05 21:08:38 - core.element_detect - INFO - 开始文本行检测：page=1
+2026-03-05 21:08:39 - core.element_detect - INFO - 文本行检测完成，共识别 9 个元素。
+2026-03-05 21:08:39 - core.content_recognize - INFO - 开始内容识别补充...
+2026-03-05 21:08:39 - core.content_recognize - INFO - 内容识别补充完成
+2026-03-05 21:08:39 - __main__ - INFO - 内容识别完成。
+2026-03-05 21:08:39 - utils.file_io - INFO - HTML 已保存到：C:\Users\Duan\Downloads\ocr\doc_parser_system\output\result.html
+2026-03-05 21:08:39 - __main__ - INFO - 处理完成，结果已输出到：C:\Users\Duan\Downloads\ocr\doc_parser_system\output\result.html
+2026-03-05 21:09:38 - utils.file_io - INFO - 发现测试文件：C:\Users\Duan\Downloads\ocr\doc_parser_system\test_data\3db9b109-5c11-4d50-ba28-2ae5d5b160b8.jpg
+2026-03-05 21:09:38 - __main__ - INFO - 开始处理文件：C:\Users\Duan\Downloads\ocr\doc_parser_system\test_data\3db9b109-5c11-4d50-ba28-2ae5d5b160b8.jpg（类型：image）
+2026-03-05 21:09:38 - core.preprocess - INFO - 开始增强图像：C:\Users\Duan\Downloads\ocr\doc_parser_system\test_data\3db9b109-5c11-4d50-ba28-2ae5d5b160b8.jpg
+2026-03-05 21:09:38 - core.preprocess - INFO - 图像增强完成：C:\Users\Duan\Downloads\ocr\doc_parser_system\tmp\enhanced_3db9b109-5c11-4d50-ba28-2ae5d5b160b8.png，宽=970，高=546
+2026-03-05 21:09:38 - core.preprocess - INFO - 预处理完成，共 1 页/图像。
+2026-03-05 21:09:45 - core.element_detect - INFO - 开始文本行检测：page=1
+2026-03-05 21:09:46 - core.element_detect - INFO - 文本行检测完成，共识别 9 个元素。
+2026-03-05 21:09:46 - core.content_recognize - INFO - 开始内容识别补充...
+2026-03-05 21:09:46 - core.content_recognize - INFO - 内容识别补充完成
+2026-03-05 21:09:46 - __main__ - INFO - 内容识别完成。
+2026-03-05 21:09:46 - utils.file_io - INFO - HTML 已保存到：C:\Users\Duan\Downloads\ocr\doc_parser_system\output\result.html
+2026-03-05 21:09:46 - __main__ - INFO - 处理完成，结果已输出到：C:\Users\Duan\Downloads\ocr\doc_parser_system\output\result.html
