@@ -118,3 +118,15 @@
 2026-03-05 21:09:46 - __main__ - INFO - 内容识别完成。
 2026-03-05 21:09:46 - utils.file_io - INFO - HTML 已保存到：C:\Users\Duan\Downloads\ocr\doc_parser_system\output\result.html
 2026-03-05 21:09:46 - __main__ - INFO - 处理完成，结果已输出到：C:\Users\Duan\Downloads\ocr\doc_parser_system\output\result.html
+2026-03-05 23:01:03 - utils.file_io - INFO - 发现测试文件：C:\Users\Duan\Downloads\ocr\doc_parser_system\test_data\e81a22c934527cf0bc31de93dc56bd38.png
+2026-03-05 23:01:03 - __main__ - INFO - 开始处理文件：C:\Users\Duan\Downloads\ocr\doc_parser_system\test_data\e81a22c934527cf0bc31de93dc56bd38.png（类型：image）
+2026-03-05 23:01:03 - core.preprocess - INFO - 开始增强图像：C:\Users\Duan\Downloads\ocr\doc_parser_system\test_data\e81a22c934527cf0bc31de93dc56bd38.png
+2026-03-05 23:01:03 - core.preprocess - INFO - 图像增强完成：C:\Users\Duan\Downloads\ocr\doc_parser_system\tmp\enhanced_e81a22c934527cf0bc31de93dc56bd38.png，宽=344，高=619
+2026-03-05 23:01:03 - core.preprocess - INFO - 预处理完成，共 1 页/图像。
+2026-03-05 23:01:09 - core.element_detect - INFO - 开始文本行检测：page=1
+2026-03-05 23:01:09 - core.element_detect - INFO - 文本行检测完成，共识别 9 个元素。
+2026-03-05 23:01:09 - core.content_recognize - INFO - 开始内容识别补充...
+2026-03-05 23:01:09 - core.content_recognize - INFO - 内容识别补充完成
+2026-03-05 23:01:09 - __main__ - INFO - 内容识别完成。
+2026-03-05 23:01:09 - utils.file_io - INFO - HTML 已保存到：C:\Users\Duan\Downloads\ocr\doc_parser_system\output\result.html
+2026-03-05 23:01:09 - __main__ - INFO - 处理完成，结果已输出到：C:\Users\Duan\Downloads\ocr\doc_parser_system\output\result.html
