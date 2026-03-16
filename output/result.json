@@ -1,0 +1,103 @@
+{
+  "elements": [
+    {
+      "index": 0,
+      "page_num": 1,
+      "element_type": "p",
+      "bbox": [
+        96,
+        29,
+        457,
+        60
+      ],
+      "content": "失败案例二：绿地集团项目",
+      "confidence": 0.9895,
+      "paragraph_id": 1
+    },
+    {
+      "index": 1,
+      "page_num": 1,
+      "element_type": "p",
+      "bbox": [
+        508,
+        133,
+        570,
+        158
+      ],
+      "content": "总结词",
+      "confidence": 0.9985,
+      "paragraph_id": 2
+    },
+    {
+      "index": 2,
+      "page_num": 1,
+      "element_type": "p",
+      "bbox": [
+        510,
+        181,
+        670,
+        195
+      ],
+      "content": "管理不善，售后服务不到位",
+      "confidence": 0.9952,
+      "paragraph_id": 2
+    },
+    {
+      "index": 3,
+      "page_num": 1,
+      "element_type": "p",
+      "bbox": [
+        507,
+        334,
+        590,
+        358
+      ],
+      "content": "详细描述",
+      "confidence": 0.9985,
+      "paragraph_id": 3
+    },
+    {
+      "index": 4,
+      "page_num": 1,
+      "element_type": "p",
+      "bbox": [
+        507,
+        378,
+        862,
+        396
+      ],
+      "content": "绿地集团项目在项目实施过程中管理混乱，进度延误，且售",
+      "confidence": 0.9876,
+      "paragraph_id": 3
+    },
+    {
+      "index": 5,
+      "page_num": 1,
+      "element_type": "p",
+      "bbox": [
+        509,
+        409,
+        863,
+        426
+      ],
+      "content": "后服务不到位，引发客户投诉和不满，这导致口碑下滑，影",
+      "confidence": 0.981,
+      "paragraph_id": 3
+    },
+    {
+      "index": 6,
+      "page_num": 1,
+      "element_type": "p",
+      "bbox": [
+        509,
+        441,
+        688,
+        455
+      ],
+      "content": "响了项目的销售和市场认可度",
+      "confidence": 0.9782,
+      "paragraph_id": 3
+    }
+  ],
+  "total": 7
+}

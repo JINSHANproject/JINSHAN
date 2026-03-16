@@ -3,7 +3,6 @@ from pathlib import Path
 from typing import Dict, List, Tuple
 
 import cv2
-from pdf2image import convert_from_path
 from PIL import Image
 
 from config.config import CONFIG
@@ -22,6 +21,13 @@ def pdf_to_images(pdf_path: str) -> List[Dict]:
     """将 PDF 文件转换为单页 PNG 图像列表。"""
     if not os.path.exists(pdf_path):
         raise FileNotFoundError(f"PDF 文件不存在：{pdf_path}")
+
+    try:
+        from pdf2image import convert_from_path
+    except ImportError as exc:
+        raise RuntimeError(
+            "pdf2image 未安装，无法处理 PDF 文件。请执行：pip install pdf2image"
+        ) from exc
 
     _ensure_temp_dir()
     try:

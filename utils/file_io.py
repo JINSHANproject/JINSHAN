@@ -11,6 +11,7 @@ logger = get_logger(__name__)
 def ensure_directories() -> None:
     os.makedirs(CONFIG.TEMP_DIR, exist_ok=True)
     os.makedirs(CONFIG.OUTPUT_DIR, exist_ok=True)
+    os.makedirs(CONFIG.IMAGE_OUTPUT_DIR, exist_ok=True)
 
 
 def find_test_file(test_dir: str) -> Optional[str]:
@@ -42,6 +43,19 @@ def save_html(html: str, filename: str = "result.html") -> str:
         return out_path
     except OSError as exc:
         logger.error("保存 HTML 失败：%s", exc)
+        raise
+
+
+def save_json(json_str: str, filename: str = "result.json") -> str:
+    ensure_directories()
+    out_path = os.path.join(CONFIG.OUTPUT_DIR, filename)
+    try:
+        with open(out_path, "w", encoding="utf-8") as f:
+            f.write(json_str)
+        logger.info("JSON 已保存到：%s", out_path)
+        return out_path
+    except OSError as exc:
+        logger.error("保存 JSON 失败：%s", exc)
         raise
 
 

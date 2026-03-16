@@ -118,3 +118,162 @@
 2026-03-05 21:09:46 - __main__ - INFO - 内容识别完成。
 2026-03-05 21:09:46 - utils.file_io - INFO - HTML 已保存到：C:\Users\Duan\Downloads\ocr\doc_parser_system\output\result.html
 2026-03-05 21:09:46 - __main__ - INFO - 处理完成，结果已输出到：C:\Users\Duan\Downloads\ocr\doc_parser_system\output\result.html
+2026-03-16 16:27:25 - utils.file_io - INFO - 发现测试文件：/home/wonder/work/jinshan/JINSHAN/test_data/3db9b109-5c11-4d50-ba28-2ae5d5b160b8.jpg
+2026-03-16 16:27:25 - __main__ - INFO - ============================================================
+2026-03-16 16:27:25 - __main__ - INFO - 开始处理：/home/wonder/work/jinshan/JINSHAN/test_data/3db9b109-5c11-4d50-ba28-2ae5d5b160b8.jpg（类型：image）
+2026-03-16 16:27:25 - __main__ - INFO - 输出格式：both
+2026-03-16 16:27:25 - __main__ - INFO - PPStructure：开启
+2026-03-16 16:27:25 - __main__ - INFO - ============================================================
+2026-03-16 16:27:25 - core.preprocess - INFO - 开始增强图像：/home/wonder/work/jinshan/JINSHAN/test_data/3db9b109-5c11-4d50-ba28-2ae5d5b160b8.jpg
+2026-03-16 16:27:25 - core.preprocess - INFO - 图像增强完成：/home/wonder/work/jinshan/JINSHAN/tmp/enhanced_3db9b109-5c11-4d50-ba28-2ae5d5b160b8.png，宽=970，高=546
+2026-03-16 16:27:25 - core.preprocess - INFO - 预处理完成，共 1 页/图像。
+2026-03-16 16:27:25 - __main__ - INFO -   [✓] 预处理完成  (0.03s)
+2026-03-16 16:27:25 - core.element_detect - INFO - 开始 PPStructure 版面分析：page=1
+2026-03-16 16:27:25 - core.element_detect - WARNING - PPStructure 版面分析失败，将降级为纯 OCR：[Errno 13] Permission denied: '/home/wonder/.paddleocr/whl/table'
+2026-03-16 16:27:25 - core.element_detect - INFO - page=1 启用降级 OCR 检测。
+2026-03-16 16:27:25 - core.element_detect - INFO - 降级 OCR 文本行检测：page=1
+2026-03-16 16:27:25 - __main__ - ERROR - 元素检测阶段发生错误：(InvalidArgument) Device id must be less than GPU count, but received id is: 0. GPU count is: 0.
+  [Hint: Expected id < GetGPUDeviceCount(), but received id:0 >= GetGPUDeviceCount():0.] (at ../paddle/phi/backends/gpu/cuda/cuda_info.cc:251)
+
+2026-03-16 16:27:43 - utils.file_io - INFO - 发现测试文件：/home/wonder/work/jinshan/JINSHAN/test_data/3db9b109-5c11-4d50-ba28-2ae5d5b160b8.jpg
+2026-03-16 16:27:43 - __main__ - INFO - ============================================================
+2026-03-16 16:27:43 - __main__ - INFO - 开始处理：/home/wonder/work/jinshan/JINSHAN/test_data/3db9b109-5c11-4d50-ba28-2ae5d5b160b8.jpg（类型：image）
+2026-03-16 16:27:43 - __main__ - INFO - 输出格式：both
+2026-03-16 16:27:43 - __main__ - INFO - PPStructure：开启
+2026-03-16 16:27:43 - __main__ - INFO - ============================================================
+2026-03-16 16:27:43 - core.preprocess - INFO - 开始增强图像：/home/wonder/work/jinshan/JINSHAN/test_data/3db9b109-5c11-4d50-ba28-2ae5d5b160b8.jpg
+2026-03-16 16:27:43 - core.preprocess - INFO - 图像增强完成：/home/wonder/work/jinshan/JINSHAN/tmp/enhanced_3db9b109-5c11-4d50-ba28-2ae5d5b160b8.png，宽=970，高=546
+2026-03-16 16:27:43 - core.preprocess - INFO - 预处理完成，共 1 页/图像。
+2026-03-16 16:27:43 - __main__ - INFO -   [✓] 预处理完成  (0.02s)
+2026-03-16 16:27:43 - core.element_detect - INFO - 开始 PPStructure 版面分析：page=1
+2026-03-16 16:27:43 - core.element_detect - WARNING - PPStructure 版面分析失败，将降级为纯 OCR：[Errno 13] Permission denied: '/home/wonder/.paddleocr/whl/table'
+2026-03-16 16:27:43 - core.element_detect - INFO - page=1 启用降级 OCR 检测。
+2026-03-16 16:27:43 - core.element_detect - INFO - 降级 OCR 文本行检测：page=1
+2026-03-16 16:27:43 - __main__ - ERROR - 元素检测阶段发生错误：(InvalidArgument) Device id must be less than GPU count, but received id is: 0. GPU count is: 0.
+  [Hint: Expected id < GetGPUDeviceCount(), but received id:0 >= GetGPUDeviceCount():0.] (at ../paddle/phi/backends/gpu/cuda/cuda_info.cc:251)
+
+2026-03-16 16:28:15 - utils.file_io - INFO - 发现测试文件：/home/wonder/work/jinshan/JINSHAN/test_data/3db9b109-5c11-4d50-ba28-2ae5d5b160b8.jpg
+2026-03-16 16:28:15 - __main__ - INFO - ============================================================
+2026-03-16 16:28:15 - __main__ - INFO - 开始处理：/home/wonder/work/jinshan/JINSHAN/test_data/3db9b109-5c11-4d50-ba28-2ae5d5b160b8.jpg（类型：image）
+2026-03-16 16:28:15 - __main__ - INFO - 输出格式：both
+2026-03-16 16:28:15 - __main__ - INFO - PPStructure：开启
+2026-03-16 16:28:15 - __main__ - INFO - ============================================================
+2026-03-16 16:28:15 - core.preprocess - INFO - 开始增强图像：/home/wonder/work/jinshan/JINSHAN/test_data/3db9b109-5c11-4d50-ba28-2ae5d5b160b8.jpg
+2026-03-16 16:28:15 - core.preprocess - INFO - 图像增强完成：/home/wonder/work/jinshan/JINSHAN/tmp/enhanced_3db9b109-5c11-4d50-ba28-2ae5d5b160b8.png，宽=970，高=546
+2026-03-16 16:28:15 - core.preprocess - INFO - 预处理完成，共 1 页/图像。
+2026-03-16 16:28:15 - __main__ - INFO -   [✓] 预处理完成  (0.02s)
+2026-03-16 16:28:15 - core.element_detect - INFO - 开始 PPStructure 版面分析：page=1
+2026-03-16 16:28:15 - core.element_detect - WARNING - PPStructure 版面分析失败，将降级为纯 OCR：[Errno 13] Permission denied: '/home/wonder/.paddleocr/whl/table'
+2026-03-16 16:28:15 - core.element_detect - INFO - page=1 启用降级 OCR 检测。
+2026-03-16 16:28:15 - core.element_detect - INFO - 降级 OCR 文本行检测：page=1
+2026-03-16 16:28:16 - core.element_detect - INFO - 元素检测完成，共识别 7 个元素。
+2026-03-16 16:28:16 - __main__ - INFO -   检测到 7 个元素
+2026-03-16 16:28:16 - __main__ - INFO -   [✓] 元素检测完成  (1.21s)
+2026-03-16 16:28:16 - core.content_recognize - INFO - 开始内容识别...
+2026-03-16 16:28:16 - core.content_recognize - INFO - 文本识别完成。
+2026-03-16 16:28:16 - core.content_recognize - INFO - 内容识别全部完成。
+2026-03-16 16:28:16 - __main__ - INFO -   [✓] 内容识别完成  (0.00s)
+2026-03-16 16:28:16 - core.logic_rebuild - INFO - 逻辑重建完成，共 7 个元素（page_width=970, page_height=546）。
+2026-03-16 16:28:16 - __main__ - INFO -   [✓] 逻辑重建完成  (0.00s)
+2026-03-16 16:28:16 - utils.file_io - INFO - HTML 已保存到：/home/wonder/work/jinshan/JINSHAN/output/result.html
+2026-03-16 16:28:16 - utils.file_io - INFO - JSON 已保存到：/home/wonder/work/jinshan/JINSHAN/output/result.json
+2026-03-16 16:28:16 - __main__ - INFO -   [✓] 输出生成完成  (0.00s)
+2026-03-16 16:28:16 - __main__ - INFO - ============================================================
+2026-03-16 16:28:16 - __main__ - INFO - 处理完成！总耗时：1.23s
+2026-03-16 16:28:16 - __main__ - INFO -   输出文件：/home/wonder/work/jinshan/JINSHAN/output/result.html
+2026-03-16 16:28:16 - __main__ - INFO -   输出文件：/home/wonder/work/jinshan/JINSHAN/output/result.json
+2026-03-16 16:28:16 - __main__ - INFO - 元素类型统计：{'header': 1, 'h1': 1, 'p': 5}
+2026-03-16 16:28:16 - __main__ - INFO - ============================================================
+2026-03-16 16:35:16 - utils.file_io - INFO - 发现测试文件：/home/wonder/work/jinshan/JINSHAN/test_data/3db9b109-5c11-4d50-ba28-2ae5d5b160b8.jpg
+2026-03-16 16:35:16 - __main__ - INFO - ============================================================
+2026-03-16 16:35:16 - __main__ - INFO - 开始处理：/home/wonder/work/jinshan/JINSHAN/test_data/3db9b109-5c11-4d50-ba28-2ae5d5b160b8.jpg（类型：image）
+2026-03-16 16:35:16 - __main__ - INFO - 输出格式：both
+2026-03-16 16:35:16 - __main__ - INFO - PPStructure：开启
+2026-03-16 16:35:16 - __main__ - INFO - ============================================================
+2026-03-16 16:35:16 - core.preprocess - INFO - 开始增强图像：/home/wonder/work/jinshan/JINSHAN/test_data/3db9b109-5c11-4d50-ba28-2ae5d5b160b8.jpg
+2026-03-16 16:35:16 - core.preprocess - INFO - 图像增强完成：/home/wonder/work/jinshan/JINSHAN/tmp/enhanced_3db9b109-5c11-4d50-ba28-2ae5d5b160b8.png，宽=970，高=546
+2026-03-16 16:35:16 - core.preprocess - INFO - 预处理完成，共 1 页/图像。
+2026-03-16 16:35:16 - __main__ - INFO -   [✓] 预处理完成  (0.02s)
+2026-03-16 16:35:16 - core.element_detect - INFO - 开始 PPStructure 版面分析：page=1
+2026-03-16 16:35:31 - core.element_detect - INFO - PPStructure 版面分析完成：page=1，检测到 1 个区域。
+2026-03-16 16:35:31 - core.element_detect - INFO - 元素检测完成，共识别 1 个元素。
+2026-03-16 16:35:31 - __main__ - INFO -   检测到 1 个元素
+2026-03-16 16:35:31 - __main__ - INFO -   [✓] 元素检测完成  (14.22s)
+2026-03-16 16:35:31 - core.content_recognize - INFO - 开始内容识别...
+2026-03-16 16:35:31 - core.content_recognize - INFO - 文本识别完成。
+2026-03-16 16:35:31 - core.content_recognize - INFO - 开始图片区域处理，共 1 个图片区域。
+2026-03-16 16:35:31 - core.content_recognize - INFO - 图片区域已保存：/home/wonder/work/jinshan/JINSHAN/output/images/page1_img1.png
+2026-03-16 16:35:31 - core.content_recognize - INFO - 图片处理完成。
+2026-03-16 16:35:31 - core.content_recognize - INFO - 内容识别全部完成。
+2026-03-16 16:35:31 - __main__ - INFO -   [✓] 内容识别完成  (0.02s)
+2026-03-16 16:35:31 - core.logic_rebuild - INFO - 逻辑重建完成，共 1 个元素（page_width=970, page_height=546）。
+2026-03-16 16:35:31 - __main__ - INFO -   [✓] 逻辑重建完成  (0.00s)
+2026-03-16 16:35:31 - utils.file_io - INFO - HTML 已保存到：/home/wonder/work/jinshan/JINSHAN/output/result.html
+2026-03-16 16:35:31 - utils.file_io - INFO - JSON 已保存到：/home/wonder/work/jinshan/JINSHAN/output/result.json
+2026-03-16 16:35:31 - __main__ - INFO -   [✓] 输出生成完成  (0.00s)
+2026-03-16 16:35:31 - __main__ - INFO - ============================================================
+2026-03-16 16:35:31 - __main__ - INFO - 处理完成！总耗时：14.26s
+2026-03-16 16:35:31 - __main__ - INFO -   输出文件：/home/wonder/work/jinshan/JINSHAN/output/result.html
+2026-03-16 16:35:31 - __main__ - INFO -   输出文件：/home/wonder/work/jinshan/JINSHAN/output/result.json
+2026-03-16 16:35:31 - __main__ - INFO - 元素类型统计：{'image': 1}
+2026-03-16 16:35:31 - __main__ - INFO - ============================================================
+2026-03-16 16:41:03 - utils.file_io - INFO - 发现测试文件：/home/wonder/work/jinshan/JINSHAN/test_data/3db9b109-5c11-4d50-ba28-2ae5d5b160b8.jpg
+2026-03-16 16:41:03 - __main__ - INFO - ============================================================
+2026-03-16 16:41:03 - __main__ - INFO - 开始处理：/home/wonder/work/jinshan/JINSHAN/test_data/3db9b109-5c11-4d50-ba28-2ae5d5b160b8.jpg（类型：image）
+2026-03-16 16:41:03 - __main__ - INFO - 输出格式：both
+2026-03-16 16:41:03 - __main__ - INFO - PPStructure：开启
+2026-03-16 16:41:03 - __main__ - INFO - ============================================================
+2026-03-16 16:41:03 - core.preprocess - INFO - 开始增强图像：/home/wonder/work/jinshan/JINSHAN/test_data/3db9b109-5c11-4d50-ba28-2ae5d5b160b8.jpg
+2026-03-16 16:41:03 - core.preprocess - INFO - 图像增强完成：/home/wonder/work/jinshan/JINSHAN/tmp/enhanced_3db9b109-5c11-4d50-ba28-2ae5d5b160b8.png，宽=970，高=546
+2026-03-16 16:41:03 - core.preprocess - INFO - 预处理完成，共 1 页/图像。
+2026-03-16 16:41:03 - __main__ - INFO -   [✓] 预处理完成  (0.02s)
+2026-03-16 16:41:03 - core.element_detect - INFO - 开始 PPStructure 版面分析：page=1
+2026-03-16 16:41:05 - core.element_detect - INFO - PPStructure 版面分析完成：page=1，检测到 1 个区域，展开为 7 个元素。
+2026-03-16 16:41:05 - core.element_detect - INFO - 元素检测完成，共识别 7 个元素。
+2026-03-16 16:41:05 - __main__ - INFO -   检测到 7 个元素
+2026-03-16 16:41:05 - __main__ - INFO -   [✓] 元素检测完成  (1.99s)
+2026-03-16 16:41:05 - core.content_recognize - INFO - 开始内容识别...
+2026-03-16 16:41:05 - core.content_recognize - INFO - 文本识别完成。
+2026-03-16 16:41:05 - core.content_recognize - INFO - 内容识别全部完成。
+2026-03-16 16:41:05 - __main__ - INFO -   [✓] 内容识别完成  (0.00s)
+2026-03-16 16:41:05 - core.logic_rebuild - INFO - 逻辑重建完成，共 7 个元素（page_width=970, page_height=546）。
+2026-03-16 16:41:05 - __main__ - INFO -   [✓] 逻辑重建完成  (0.00s)
+2026-03-16 16:41:05 - utils.file_io - INFO - HTML 已保存到：/home/wonder/work/jinshan/JINSHAN/output/result.html
+2026-03-16 16:41:05 - utils.file_io - INFO - JSON 已保存到：/home/wonder/work/jinshan/JINSHAN/output/result.json
+2026-03-16 16:41:05 - __main__ - INFO -   [✓] 输出生成完成  (0.00s)
+2026-03-16 16:41:05 - __main__ - INFO - ============================================================
+2026-03-16 16:41:05 - __main__ - INFO - 处理完成！总耗时：2.02s
+2026-03-16 16:41:05 - __main__ - INFO -   输出文件：/home/wonder/work/jinshan/JINSHAN/output/result.html
+2026-03-16 16:41:05 - __main__ - INFO -   输出文件：/home/wonder/work/jinshan/JINSHAN/output/result.json
+2026-03-16 16:41:05 - __main__ - INFO - 元素类型统计：{'p': 7}
+2026-03-16 16:41:05 - __main__ - INFO - ============================================================
+2026-03-16 16:41:49 - utils.file_io - INFO - 发现测试文件：/home/wonder/work/jinshan/JINSHAN/test_data/3db9b109-5c11-4d50-ba28-2ae5d5b160b8.jpg
+2026-03-16 16:41:49 - __main__ - INFO - ============================================================
+2026-03-16 16:41:49 - __main__ - INFO - 开始处理：/home/wonder/work/jinshan/JINSHAN/test_data/3db9b109-5c11-4d50-ba28-2ae5d5b160b8.jpg（类型：image）
+2026-03-16 16:41:49 - __main__ - INFO - 输出格式：both
+2026-03-16 16:41:49 - __main__ - INFO - PPStructure：开启
+2026-03-16 16:41:49 - __main__ - INFO - ============================================================
+2026-03-16 16:41:49 - core.preprocess - INFO - 开始增强图像：/home/wonder/work/jinshan/JINSHAN/test_data/3db9b109-5c11-4d50-ba28-2ae5d5b160b8.jpg
+2026-03-16 16:41:49 - core.preprocess - INFO - 图像增强完成：/home/wonder/work/jinshan/JINSHAN/tmp/enhanced_3db9b109-5c11-4d50-ba28-2ae5d5b160b8.png，宽=970，高=546
+2026-03-16 16:41:49 - core.preprocess - INFO - 预处理完成，共 1 页/图像。
+2026-03-16 16:41:49 - __main__ - INFO -   [✓] 预处理完成  (0.02s)
+2026-03-16 16:41:49 - core.element_detect - INFO - 开始 PPStructure 版面分析：page=1
+2026-03-16 16:41:53 - core.element_detect - INFO - PPStructure 版面分析完成：page=1，检测到 1 个区域，展开为 7 个元素。
+2026-03-16 16:41:53 - core.element_detect - INFO - 元素检测完成，共识别 7 个元素。
+2026-03-16 16:41:53 - __main__ - INFO -   检测到 7 个元素
+2026-03-16 16:41:53 - __main__ - INFO -   [✓] 元素检测完成  (3.42s)
+2026-03-16 16:41:53 - core.content_recognize - INFO - 开始内容识别...
+2026-03-16 16:41:53 - core.content_recognize - INFO - 文本识别完成。
+2026-03-16 16:41:53 - core.content_recognize - INFO - 内容识别全部完成。
+2026-03-16 16:41:53 - __main__ - INFO -   [✓] 内容识别完成  (0.00s)
+2026-03-16 16:41:53 - core.logic_rebuild - INFO - 逻辑重建完成，共 7 个元素（page_width=970, page_height=546）。
+2026-03-16 16:41:53 - __main__ - INFO -   [✓] 逻辑重建完成  (0.00s)
+2026-03-16 16:41:53 - utils.file_io - INFO - HTML 已保存到：/home/wonder/work/jinshan/JINSHAN/output/result.html
+2026-03-16 16:41:53 - utils.file_io - INFO - JSON 已保存到：/home/wonder/work/jinshan/JINSHAN/output/result.json
+2026-03-16 16:41:53 - __main__ - INFO -   [✓] 输出生成完成  (0.00s)
+2026-03-16 16:41:53 - __main__ - INFO - ============================================================
+2026-03-16 16:41:53 - __main__ - INFO - 处理完成！总耗时：3.44s
+2026-03-16 16:41:53 - __main__ - INFO -   输出文件：/home/wonder/work/jinshan/JINSHAN/output/result.html
+2026-03-16 16:41:53 - __main__ - INFO -   输出文件：/home/wonder/work/jinshan/JINSHAN/output/result.json
+2026-03-16 16:41:53 - __main__ - INFO - 元素类型统计：{'p': 7}
+2026-03-16 16:41:53 - __main__ - INFO - ============================================================
